@@ -1,0 +1,1 @@
+enum TodosEdit {all, completed, cancelled, pending}
